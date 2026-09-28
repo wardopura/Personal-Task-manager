@@ -45,3 +45,5 @@ This project uses SQLite as its database.
 The project demonstrates the following Laravel flow:
 
 Routes → Controller → Model → Database → Blade
+
+1790609622559.jpg
